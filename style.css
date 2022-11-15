@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar.navbar1{
+	background-color: rgba(108,117,125,0.3);
+
+}
+
+.main-container{
+	padding: 0;
+	background-color: rgba(127,125,120,0.2);
+}
+
+
+
+
+.bg-section2{
+	background-color: rgba(52, 58, 64, 0.2);
+}
+
+.main-container_wrapper{
+	padding: 6rem 0 6rem 0;
+}
+
+
+
+.h1-class{
+	font-family: 'Fragment Mono', monospace;
+}
+
+.container-fluid.font-footer{
+	font-size: 15px;
+}
+
+.h2-class{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
